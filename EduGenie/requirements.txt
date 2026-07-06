@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-google-generativeai
-transformers
-pydantic
-python-dotenv
-jinja2
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
